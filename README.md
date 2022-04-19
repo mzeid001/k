@@ -2,4 +2,4 @@
 
 The starting code for a CS252 assignment.
 
-* Submitted by: `mzeid001@odu.edu`
+* Submitted by: `cs_mzeid001@linux.odu.edu`
